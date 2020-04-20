@@ -36,7 +36,7 @@ setup(
     description="YNAB API Endpoints",
     author_email="hello@garciadavid.net",
     url="https://github.com/dangior/ynab-moka",
-    download_url = 'https://github.com/dangior/ynab-moka/archive/1.0.0.tar.gz',
+    download_url = 'https://github.com/dangior/ynab-moka/archive/1.0.1.tar.gz',
     keywords=["Swagger", "YNAB API Endpoints"],
     install_requires=REQUIRES,
     packages=find_packages(),
