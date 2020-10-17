@@ -1,3 +1,4 @@
+![Upload Python Package](https://github.com/dangior/ynab-moka/workflows/Upload%20Python%20Package/badge.svg)
 # ynab-moka
 
 This is a python client for YNAB API. Initial commit April 2020
