@@ -3,9 +3,13 @@
 
 name: Upload Python Package
 
-on:
-  release:
-    types: [created]
+on: 
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Pypi package version
+        default: v1.0.0
+        required: true
 
 jobs:
   deploy:
